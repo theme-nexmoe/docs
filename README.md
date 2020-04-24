@@ -6,7 +6,7 @@ description: 一个比较特别的 Hexo 主题
 
 ![&#x9884;&#x89C8;&#x56FE;](.gitbook/assets/cover.png)
 
-> ![star](https://img.shields.io/github/stars/nexmoe/hexo-theme-nexmoe.svg) ![fork](https://img.shields.io/github/forks/nexmoe/hexo-theme-nexmoe.svg) ![issues](https://img.shields.io/github/issues/nexmoe/hexo-theme-nexmoe.svg) ![GitHub last commit](https://img.shields.io/github/last-commit/nexmoe/hexo-theme-nexmoe.svg?label=commits) [![Author](https://img.shields.io/badge/author-%E6%8A%98%E5%BD%B1%E8%BD%BB%E6%A2%A6-red.svg)](https://nexmoe.com) [![license](https://img.shields.io/github/license/nexmoe/hexo-theme-nexmoe.svg)](https://github.com/nexmoe/hexo-theme-nexmoe/blob/master/LICENSE) ![Download](https://img.shields.io/badge/download-29.9KB-brightgreen.svg)
+![star](https://img.shields.io/github/stars/nexmoe/hexo-theme-nexmoe.svg) ![fork](https://img.shields.io/github/forks/nexmoe/hexo-theme-nexmoe.svg) ![issues](https://img.shields.io/github/issues/nexmoe/hexo-theme-nexmoe.svg) ![GitHub last commit](https://img.shields.io/github/last-commit/nexmoe/hexo-theme-nexmoe.svg?label=commits) [![Author](https://img.shields.io/badge/author-%E6%8A%98%E5%BD%B1%E8%BD%BB%E6%A2%A6-red.svg)](https://nexmoe.com) [![license](https://img.shields.io/github/license/nexmoe/hexo-theme-nexmoe.svg)](https://github.com/nexmoe/hexo-theme-nexmoe/blob/master/LICENSE) ![Download](https://img.shields.io/badge/download-29.9KB-brightgreen.svg)
 
 ### 💻 演示
 
