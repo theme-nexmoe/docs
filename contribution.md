@@ -6,7 +6,7 @@
 
 [QQ群 482634342 轻惋漫社](https://jq.qq.com/?_wv=1027&k=5CfKHun)
 
- [Telegram 群组 轻惋漫社](https://t.me/chainwon)
+[Telegram 群组 轻惋漫社](https://t.me/chainwon)
 
 ## Issue
 
