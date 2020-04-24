@@ -12,5 +12,5 @@
 * [使用 Mathjax](hexo/math.md)
 * [参与贡献](contribution/README.md)
   * [目录结构](contribution/catalog.md)
-* [图标](tu-biao.md)
+* [图标](icon.md)
 
