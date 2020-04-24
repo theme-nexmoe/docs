@@ -1,6 +1,6 @@
 # 使用 Mathjax
 
-## 使用Kramed代替 Marked
+## 使用 Kramed 代替 Marked
 
 `hexo` 默认的渲染引擎是 `marked` ，但是 `marked` 不支持 `mathjax` 。 `kramed` 是在 `marked` 的基础上进行修改。我们在工程目录下执行以下命令来安装 `kramed` 。
 
@@ -26,7 +26,7 @@ function formatText(text) {
 }
 ```
 
-## 安装mathjax包
+## 安装 Mathjax 包
 
 如果之前安装过 `hexo-math` ,则先卸载 `hexo-math` 再安装 `mathjax`
 
@@ -75,7 +75,7 @@ em: /^\b_((?:__|[\s\S])+?)_\b|^\*((?:\*\*|[\s\S])+?)\*(?!\*)/,
 em: /^\*((?:\*\*|[\s\S])+?)\*(?!\*)/,
 ```
 
-## 开启mathjax
+## 开启 Mathjax 
 
 打开 `主题配置文件` ,增加以下字段：
 

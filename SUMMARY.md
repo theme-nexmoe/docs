@@ -5,11 +5,14 @@
 ## Hexo-Nexmoe
 
 * [快速开始](hexo-nexmoe/start.md)
-* [注意事项](hexo-nexmoe/notice.md)
+* [常见问题](hexo-nexmoe/faq.md)
 * [文章页面](hexo-nexmoe/use.md)
 * [评论系统](hexo-nexmoe/comment.md)
 * [统计系统](hexo-nexmoe/statistics.md)
-* [使用 Mathjax](hexo-nexmoe/math.md)
+* [图标](hexo-nexmoe/icon.md)
 * [参与贡献](contribution.md)
-* [图标](icon.md)
+
+## Hexo
+
+* [使用 Mathjax](hexo/math.md)
 
