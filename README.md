@@ -1,35 +1,21 @@
-# 欢迎
+# 参与贡献
 
-![&#x9884;&#x89C8;&#x56FE;](.gitbook/assets/cover.png)
+如你所见的，这是一个开源的项目，开源的目的就是为了更好的社区维护，我希望任何愿意的人都可以通过任何方式参与到 Nexmoe 的贡献中来。
 
-> 一个比较特别的 Hexo 主题
+## 即时讨论
 
-![star](https://img.shields.io/github/stars/nexmoe/hexo-theme-nexmoe.svg)![fork](https://img.shields.io/github/forks/nexmoe/hexo-theme-nexmoe.svg)![issues](https://img.shields.io/github/issues/nexmoe/hexo-theme-nexmoe.svg)![GitHub last commit](https://img.shields.io/github/last-commit/nexmoe/hexo-theme-nexmoe.svg?label=commits)[![Author](https://img.shields.io/badge/author-%E6%8A%98%E5%BD%B1%E8%BD%BB%E6%A2%A6-red.svg)](https://nexmoe.com)[![license](https://img.shields.io/github/license/nexmoe/hexo-theme-nexmoe.svg)](https://github.com/nexmoe/hexo-theme-nexmoe/blob/master/LICENSE)![Download](https://img.shields.io/badge/download-29.9KB-brightgreen.svg)
+[QQ群 482634342 轻惋漫社](https://jq.qq.com/?_wv=1027&k=5CfKHun)
 
-### 💻 演示
+ [Telegram 群组 轻惋漫社](https://t.me/chainwon)
 
-* [Nexmoe](https://nexmoe.com/)
-* [深海小涛](https://hexo.xtaolink.cn/)
-* [西瓜星 🍉✨](https://suikastar.com/)
-* [我妻善逸](http://fguby.love/)
+## Issue
 
-> 欢迎将你的网站提交到这里来
+这可以不需要你的任何技术要求，只需要提交你的建议，还有你发现的 BUG，就足以参加到贡献中来。
 
-### 🌏 国际化
+## Pull Request（PR）
 
-支持多语言，默认语言为简体中文。 目前中文翻译较全，其他语言翻译不完全，有余力的大佬可以来贡献一下 语言文件在 languages 里，参考 `zh-CN.yml` 进行翻译即可
+欢迎任何功能上的 PR。
 
-> 非常欢迎你帮助我们将 Nexmoe 翻译至其他语言！
+## 文档
 
-### 📄 许可证
-
-根据 Apache License 2.0 许可证开源。
-
-### 🍻 后续更新
-
-就读高中， star 以及 issue 是我更新的动力! 欢迎加群 [482634342 轻惋漫社](https://jq.qq.com/?_wv=1027&k=5CfKHun) 划水
-
-### 💬 交流
-
-论坛提问：[https://club.chainwon.com/t/nexmoe](https://club.chainwon.com/t/nexmoe) 主题讨论群：614621637
-
+如你所见，这个文档内容很少，因为没有人喜欢写文档。 如果你有充足的时间，并且十分乐意参加到贡献中来，文档无疑是项目中非常重要的一环。
