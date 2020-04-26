@@ -20,9 +20,9 @@ description: 参考以下链接
 
 5️⃣ 添加新图标到项目 
 
-6️⃣ 生成的css地址添加到主题配置文件iconlib参数的value部分
+6️⃣ 生成的 css 地址添加到主题配置文件 iconlib 参数的 value 部分
 
-7️⃣ 在使用图标部分引用在矢量库的class
+7️⃣ 在使用图标部分引用在矢量库的 class
 
 ![](../.gitbook/assets/2020-04-25_12-19-02.png)
 
