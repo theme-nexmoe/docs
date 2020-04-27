@@ -17,6 +17,10 @@ description: 一个比较特别的 Hexo 主题
 
 > 欢迎将你的网站提交到这里来
 
+### 贡献者
+
+![](https://opencollective.com/hexo-theme-nexmoe/contributors.svg)
+
 ### 🌏 国际化
 
 支持多语言，默认语言为简体中文。 目前中文翻译较全，其他语言翻译不完全，有余力的大佬可以来贡献一下 语言文件在 languages 里，参考 `zh-CN.yml` 进行翻译即可
