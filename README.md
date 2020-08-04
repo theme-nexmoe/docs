@@ -37,5 +37,5 @@ description: 一个比较特别的 Hexo 主题
 
 ### 💬 交流
 
-论坛提问：[https://club.chainwon.com/t/nexmoe](https://club.chainwon.com/t/nexmoe) 主题讨论群：614621637
+主题讨论群：614621637
 
