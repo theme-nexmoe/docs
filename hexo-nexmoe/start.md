@@ -24,17 +24,11 @@ Hexo 官方文档解决大部分问题！
 
 以上方法解决不了的问题，搜索引擎一定能解决，如果搜索引擎都解决不了，那就没办法了。
 
-## 下载
+## Hexo 5.0 以下版本安装方式（不推荐）
 
 ### [下载最新 Release 版本](https://github.com/nexmoe/hexo-theme-nexmoe/releases/latest)
 
 > 最新的释出版本，适合大部分用户。
-
-### [下载其他版本](https://github.com/nexmoe/hexo-theme-nexmoe/releases)
-
-> 你可以自己决定想要使用的版本；部分版本可能不再提供技术支持。
-
-选择你所需要的版本，在新打开的页面中找到 Assets 区域，下载 Source Code \(zip\) 到本地。 解压所下载的压缩包至站点的 `themes` 目录下， 并将 解压后的文件夹名称 更改为 `nexmoe`
 
 ### [使用 Git](https://github.com/nexmoe/hexo-theme-nexmoe)
 
@@ -45,6 +39,12 @@ cd themes
 git clone https://github.com/nexmoe/hexo-theme-nexmoe.git nexmoe
 cd nexmoe
 git checkout {branch/tags name/commit hash}
+```
+
+## Hexo 5.0 以后版本安装方式（推荐）
+
+```
+npm i hexo-theme-nexmoe
 ```
 
 ## 安装 Nexmoe
