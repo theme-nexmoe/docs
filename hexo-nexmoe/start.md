@@ -61,10 +61,6 @@ npm i --save hexo-wordcount
 npm install hexo-wordcount@2 --save
 ```
 
-**同时你需要把 Nexmoe 主题目录下的 `_config.example.yml` 复制一份并把副本重命名为 `_config.yml`**
-
-因为在主题的开发迭代过程中，`主题的配置文件` 很有可能会有变动。所以我们把 `_config.yml` 添加到了 `.gitignore` 之中，这样可以避免使用 `git pull` 更新主题的用户出现冲突
-
 ## 启用 Nexmoe
 
 在 `站点配置文件` 中，修改 `theme` 的值为 `nexmoe`
@@ -89,7 +85,9 @@ INFO  Hexo is running at http://localhost:4000/. Press Ctrl+C to stop.
 
 ## 更新 Nexmoe
 
-如果你是在 `版本发布页` 下载并安装的 Nexmoe，那么你需要备份你的 `主题备份文件`，然后将旧的主题文件夹命名为 `nexmoe-old`，将下载的新版本 Nexmoe 重命名为 `nexmoe`，根据更新日志的指导迁移旧的 `主题配置文件` 到新的 `主题配置文件` 中。测试通过后你可以将 `nexmoe-old` 删除。
+目前只推荐 Hexo 5.0 后版本使用 npm 更新
 
-如果你使用 Git 安装的 Nexmoe，你可以直接在主题文件夹下运行 git pull 更新主题，并把备份之前的 主题配置文件 重命名为 `_config.old.yml`，复制一份 `_config.example.yml` 并重命名为 `_config.yml`。从 `_config.old.yml` 迁移你的配置到新的 `_config.yml`测试通过后你可以将 `_config.old.yml` 删除。
+~~如果你是在 `版本发布页` 下载并安装的 Nexmoe，那么你需要备份你的 `主题备份文件`，然后将旧的主题文件夹命名为 `nexmoe-old`，将下载的新版本 Nexmoe 重命名为 `nexmoe`，根据更新日志的指导迁移旧的 `主题配置文件` 到新的 `主题配置文件` 中。测试通过后你可以将 `nexmoe-old` 删除。~~
+
+~~如果你使用 Git 安装的 Nexmoe，你可以直接在主题文件夹下运行 git pull 更新主题，并把备份之前的 主题配置文件 重命名为 `_config.old.yml`，复制一份 `_config.example.yml` 并重命名为 `_config.yml`。从 `_config.old.yml` 迁移你的配置到新的 `_config.yml`测试通过后你可以将 `_config.old.yml` 删除。~~
 

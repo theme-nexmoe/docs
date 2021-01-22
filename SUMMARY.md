@@ -6,6 +6,7 @@
 
 * [快速开始](hexo-nexmoe/start.md)
 * [常见问题](hexo-nexmoe/faq.md)
+* [主题配置](hexo-nexmoe/zhu-ti-pei-zhi.md)
 * [文章页面](hexo-nexmoe/use.md)
 * [评论系统](hexo-nexmoe/comment.md)
 * [统计系统](hexo-nexmoe/statistics.md)
