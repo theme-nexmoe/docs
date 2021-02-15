@@ -1,85 +1,92 @@
-# Start
+# Quick start
 
-## Introduction
+Before using Nexmoe, please read the [official documentation for Hexo](https://hexo.io/zh-cn/docs/), complete the installation of Hexo and complete the basic configuration of the `site profile` (title, introduction, author, time zone, language, etc.)
 
-Hexo is a static site generator which is based on [Node.js](https://nodejs.org/) You can learn how to install Hexo and generate your own website or blog at [Hexo’s Official Documents.](https://hexo.io/docs) .
+## What should I do if I encounter problems?
 
-> In this documentation, we suppose you have already successfully installed hexo and finished `hexo init` to set up a site.
+### 1. Check the official Hexo documentation
 
-There are two configuration files in Hexo Project, one in the root directory of your Hexo Project and the other in the theme directory. For the convenience of description, the former is referred to as `_config.yml`；and the latter as `_config.yml`.
+Problems are usually caused by unfamiliarity with Hexo, and the author of this topic does not know Hexo very well, so he often goes through the official documentation.
 
-Before using “Nexmoe” theme, please read [Hexo’s Official Documents](https://hexo.io/docs)，carefully and configure the basic configuration, such as title, subtitle, description, author, timezone, language etc.
+The official Hexo documentation solves most problems!
 
-## Download
+Please read the official documentation for Hexo carefully (https://hexo.io/zh-cn/docs/)
 
-### [Download latest Release](https://github.com/nexmoe/hexo-theme-nexmoe/releases/latest)
+Please read the [official Hexo documentation](https://hexo.io/zh-cn/docs/)
 
-> The latest release. Recommended for most users.
+Please read carefully [Hexo's official documentation](https://hexo.io/zh-cn/docs/)
 
-### [Download other version](https://github.com/nexmoe/hexo-theme-nexmoe/releases)
+### 2. Consult this document
 
-> You can decide which version to use. Some releases are no longer supported.
+This document is small and only addresses frequently asked questions
 
-Choose the version you want to deploy, expand `Assets` tab in releases page, and download Source Code \(zip\). Unpack it and rename it to `nexmoe`, and then move it to `themes` directory of your Hexo Project.
+### 3、Use search engine
 
-### [Using Git](https://github.com/nexmoe/hexo-theme-nexmoe)
+The above method can not solve the problem, the search engine must be able to solve, if the search engine can not solve, then there is no way.
 
-With git you can decide which version and branch you want to use. You can use `git pull` to update the theme if you goes this way.
+## Hexo 5.0 following version installation method (not recommended)
 
-```text
+### [Download the latest Release version](https://github.com/nexmoe/hexo-theme-nexmoe/releases/latest)
+
+> The latest release version, suitable for most users.
+
+### [Use Git](https://github.com/nexmoe/hexo-theme-nexmoe)
+
+You can decide which branch you want to use; you can use Git to download Nexmoe and then use ``git pull`` to update Nexmoe.
+
+```bash
 cd themes
 git clone https://github.com/nexmoe/hexo-theme-nexmoe.git nexmoe
 cd nexmoe
 git checkout {branch/tags name/commit hash}
 ```
 
-## Install
+## Hexo 5.0 onwards installation method (recommended)
 
-When installing “Nexmoe” you need extra steps which is diffrent from other themes.The theme has integrated the article \[word count\], \[reading time\] statistics function by default, and can not be closed temporarily. If the `hexo-wordcount` plugin is not installed, install the plugin first:
+```
+npm i hexo-theme-nexmoe
+```
 
-```text
+## Installing Nexmoe
+
+Unlike other themes, installing Nexmoe requires an extra step; the theme has integrated post [word count] and [reading time] statistics by default and cannot be turned off at the moment. If you do not have the hexo-wordcount plugin installed, install it first: ``bash
+
+```bash
 npm i --save hexo-wordcount
 ```
 
-**Before Node version 7.6.0, please install the 2.x version \(Node.js v7.6.0 and previous\), the installation command is as follows:**
+**Before Node version 7.6.0, please install version 2.x \ (Node.js v7.6.0 and previous\) with the following command:**
 
-```text
+```bash
 npm install hexo-wordcount@2 --save
 ```
 
-Then you need to make a copy of `_config.example.yml` and rename it to `_config.yml`。
+## Enable Nexmoe
 
-```text
-cp -i _config.example.yml _config.yml
-```
+In the ``site configuration file``, change the value of ``theme`` to ``nexmoe``
 
-With the theme being developed, the theme config template will change. By copying the config you can avoid potential conflicts for users who use git pull to upgrade the theme.
+## Run Nexmoe
 
-## Enable
+Run the following command in the site root directory to start a Hexo Server locally.
 
-Change `theme` key’s value to `nexmoe`.
-
-## Start
-
-Run the command below to start a local Hexo Server.
-
-```text
+``bash
 hexo s --debug
 ```
 
-> During the service startup process, pay attention any abnormal outputs. If you want to report issues, those information will help.
+> As the service starts, watch the command line output for any exception messages that will help others locate errors if you encounter problems.
 
-When the output looks like the lines below.It means Hexo is already running on your device, check [https://localhost:4000](https://localhost:4000) in your browser.
+When the command line outputs the following, Hexo is already listening on port 4000 on the local machine. Use your browser to visit [http://localhost:4000](http://localhost:4000) to check that the site is running correctly.
 
-```text
-INFO  Hexo is running at http://localhost:4000/. Press Ctrl+C to stop.
+```bash
+INFO Hexo is running at http://localhost:4000/. Press Ctrl+C to stop.
 ```
 
-> If you have any problem using “nexmoe”, try searching in the documentation at sidebar or [open new issue](https://github.com/nexmoe/hexo-theme-nexmoe/issues/new) at GitHub.
+> If you have problems using it, try searching the documentation or raising an [issue](https://github.com/nexmoe/hexo-theme-nexmoe/issues/new) on GitHub
 
-## Update
+## Updating Nexmoe
 
-If you downloaded “Nexmoe” from a GitHub release, you should rename your theme directory from `nexmoe` to `nexmoe-old`, and rename the newer version of “nexmoe” directory to `nexmoe`. Then follow the guide at changelog to migrate your configuration to the newer version. You can delete `nexmoe-old` directory afterwards if you want.
+It is currently only recommended to use npm updates for Hexo 5.0 onwards
 
-If you use git to download “nexmoe”, you need to backup your `theme config` \(for example, rename it to `_config.old.yml`\), and then run `git pull` to update “nexmoe”. You will see a new `_config.example.yml`. Make a copy of it and rename it as `_config.yml`. Now you can migrate your settings from `_config.old.yml` to `_config.yml`. After the test you can delete `_config.old.yml`.
+~~ If you downloaded and installed Nexmoe from the `version release page`, you will need to back up your `theme backup file`, then name the old theme folder `nexmoe-old`, rename the new Nexmoe download to `nexmoe` and follow the instructions in the changelog to migrate the old `theme profile` to the new into the new `theme profile`. You can delete `nexmoe-old` once you have tested it. ~~
 
+~~ If you installed Nexmoe using Git, you can update the theme by running a git pull directly under the theme folder and renaming the previous theme configuration file to `_config.old.yml`, making a copy of `_config.example.yml` and renaming it to `_ config.yml`. Migrate your configuration from `_config.old.yml` to the new `_config.yml` and you can delete `_config.old.yml` once the tests have passed. ~~
