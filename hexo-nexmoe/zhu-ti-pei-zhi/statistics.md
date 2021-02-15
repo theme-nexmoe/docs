@@ -1,4 +1,4 @@
-# 统计系统
+# 分析系统
 
 ## [Google](https://analytics.google.com)
 

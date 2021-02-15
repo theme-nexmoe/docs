@@ -8,7 +8,7 @@
 * [常见问题](hexo-nexmoe/faq.md)
 * [主题配置](hexo-nexmoe/zhu-ti-pei-zhi/README.md)
   * [评论系统](hexo-nexmoe/zhu-ti-pei-zhi/comment.md)
-  * [统计系统](hexo-nexmoe/zhu-ti-pei-zhi/statistics.md)
+  * [分析系统](hexo-nexmoe/zhu-ti-pei-zhi/statistics.md)
   * [图标](hexo-nexmoe/zhu-ti-pei-zhi/icon.md)
 * [文章页面](hexo-nexmoe/use.md)
 * [参与贡献](hexo-nexmoe/contribution.md)
