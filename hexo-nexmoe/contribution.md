@@ -10,13 +10,19 @@
 
 ## Issue
 
+[报告错误](https://github.com/theme-nexmoe/hexo-theme-nexmoe/issues/new)
+
 这可以不需要你的任何技术要求，只需要提交你的建议，还有你发现的 BUG，就足以参加到贡献中来。
 
 ## Pull Request（PR）
 
+[提交新功能](https://github.com/theme-nexmoe/hexo-theme-nexmoe/pulls)
+
 欢迎任何功能上的 PR。
 
 ## 文档
+
+[完善教程](https://github.com/theme-nexmoe/docs)
 
 如你所见，这个文档内容很少，因为没有人喜欢写文档。 如果你有充足的时间，并且十分乐意参加到贡献中来，文档无疑是项目中非常重要的一环。
 
