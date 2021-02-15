@@ -87,6 +87,6 @@ INFO Hexo is running at http://localhost:4000/. Press Ctrl+C to stop.
 
 It is currently only recommended to use npm updates for Hexo 5.0 onwards
 
-~~ If you downloaded and installed Nexmoe from the `version release page`, you will need to back up your `theme backup file`, then name the old theme folder `nexmoe-old`, rename the new Nexmoe download to `nexmoe` and follow the instructions in the changelog to migrate the old `theme profile` to the new into the new `theme profile`. You can delete `nexmoe-old` once you have tested it. ~~
+~~If you downloaded and installed Nexmoe from the `version release page`, you will need to back up your `theme backup file`, then name the old theme folder `nexmoe-old`, rename the new Nexmoe download to `nexmoe` and follow the instructions in the changelog to migrate the old `theme profile` to the new into the new `theme profile`. You can delete `nexmoe-old` once you have tested it.~~
 
-~~ If you installed Nexmoe using Git, you can update the theme by running a git pull directly under the theme folder and renaming the previous theme configuration file to `_config.old.yml`, making a copy of `_config.example.yml` and renaming it to `_ config.yml`. Migrate your configuration from `_config.old.yml` to the new `_config.yml` and you can delete `_config.old.yml` once the tests have passed. ~~
+~~If you installed Nexmoe using Git, you can update the theme by running a git pull directly under the theme folder and renaming the previous theme configuration file to `_config.old.yml`, making a copy of `_config.example.yml` and renaming it to `_ config.yml`. Migrate your configuration from `_config.old.yml` to the new `_config.yml` and you can delete `_config.old.yml` once the tests have passed.~~
