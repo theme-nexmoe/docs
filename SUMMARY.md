@@ -1,14 +1,17 @@
 # Table of contents
 
-* [README](README.md)
+* [WELCOME](README.md)
 
-## 快速开始
+## HEXO-NEXMOE <a id="kuai-su-kai-shi"></a>
 
 ---
 
-* [Start](start.md)
-* [Use](use.md)
-* [Precautions](notice.md)
-* [Comment](comment.md)
-* [Participation and contribution](contribution.md)
+* [Quick Start](quick-start.md)
+* [Frequently Asked Questions](frequently-asked-questions.md)
+* [Theme Configuration](theme-configuration/README.md)
+  * [Comment system](theme-configuration/comment-system.md)
+  * [Analysis systems](theme-configuration/analysis-systems.md)
+  * [Icons](theme-configuration/icons.md)
+* [Article Page](article-page.md)
+* [Contribution to participation](contribution-to-participation.md)
 
