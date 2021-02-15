@@ -1,3 +1,5 @@
+# Article Page
+
 ## Article pages
 
 ## Archive pages
@@ -90,4 +92,5 @@ coverHeight: 750
 
 The effect is as follows
 
-! [](. /.gitbook/assets/qq-tu-pian-20210215103021.png)
+![](../.gitbook/assets/qq-tu-pian-20210215103021.png)
+
