@@ -11,6 +11,7 @@
   * [分析系统](hexo-nexmoe/zhu-ti-pei-zhi/statistics.md)
   * [图标](hexo-nexmoe/zhu-ti-pei-zhi/icon.md)
 * [文章页面](hexo-nexmoe/use.md)
+* [旧版迁移](hexo-nexmoe/jiu-ban-qian-yi.md)
 * [参与贡献](hexo-nexmoe/contribution.md)
 
 ## Hexo
