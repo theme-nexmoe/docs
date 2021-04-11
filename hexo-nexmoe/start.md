@@ -24,30 +24,15 @@ Hexo 官方文档解决大部分问题！
 
 以上方法解决不了的问题，搜索引擎一定能解决，如果搜索引擎都解决不了，那就没办法了。
 
-## Hexo 5.0 以下版本安装方式（不推荐）
 
-### [下载最新 Release 版本](https://github.com/nexmoe/hexo-theme-nexmoe/releases/latest)
 
-> 最新的释出版本，适合大部分用户。
-
-### [使用 Git](https://github.com/nexmoe/hexo-theme-nexmoe)
-
-你可以自己决定想要使用的分支；使用 Git 下载 Nexmoe 以后还可以使用 `git pull` 更新 Nexmoe。
-
-```bash
-cd themes
-git clone https://github.com/nexmoe/hexo-theme-nexmoe.git nexmoe
-cd nexmoe
-git checkout {branch/tags name/commit hash}
-```
-
-## Hexo 5.0 以后版本安装方式（推荐）
+## 使用 NPM 安装
 
 ```
 npm i hexo-theme-nexmoe
 ```
 
-## 安装 Nexmoe
+## 安装 WordCount（必须）
 
 其他主题不同，安装 Nexmoe 需要额外的步骤；主题默认已经集成了文章【字数统计】、【阅读时长】统计功能，且暂时无法关闭。如果没有安装 hexo-wordcount 插件，先安装该插件：
 
@@ -85,9 +70,9 @@ INFO  Hexo is running at http://localhost:4000/. Press Ctrl+C to stop.
 
 ## 更新 Nexmoe
 
-目前只推荐 Hexo 5.0 后版本使用 npm 更新
+使用 NPM 的 install 命令即可升级
 
-~~如果你是在 `版本发布页` 下载并安装的 Nexmoe，那么你需要备份你的 `主题备份文件`，然后将旧的主题文件夹命名为 `nexmoe-old`，将下载的新版本 Nexmoe 重命名为 `nexmoe`，根据更新日志的指导迁移旧的 `主题配置文件` 到新的 `主题配置文件` 中。测试通过后你可以将 `nexmoe-old` 删除。~~
-
-~~如果你使用 Git 安装的 Nexmoe，你可以直接在主题文件夹下运行 git pull 更新主题，并把备份之前的 主题配置文件 重命名为 `_config.old.yml`，复制一份 `_config.example.yml` 并重命名为 `_config.yml`。从 `_config.old.yml` 迁移你的配置到新的 `_config.yml`测试通过后你可以将 `_config.old.yml` 删除。~~
+```
+npm i hexo-theme-nexmoe
+```
 
