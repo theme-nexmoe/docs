@@ -1,6 +1,6 @@
 # 快速开始
 
-在使用 Nexmoe 之前，请仔细阅读 [Hexo 的官方文档](https://hexo.io/zh-cn/docs/)，完成对 Hexo 的安装，并完成对 `站点配置文件` 的基本配置（标题、介绍、作者、时区、语言等）
+在使用 Nexmoe 之前，请仔细阅读 [Hexo 的官方文档](https://hexo.io/zh-cn/docs/)，完成对 Hexo 的安装，并完成对 `config.yml` 的基本配置（标题、介绍、作者、时区、语言等）
 
 ## 遇到问题怎么办？
 
@@ -26,7 +26,7 @@ Hexo 官方文档解决大部分问题！
 
 
 
-## 使用 NPM 安装
+## 使用 NPM 安装主题
 
 ```
 npm i hexo-theme-nexmoe
@@ -48,7 +48,7 @@ npm install hexo-wordcount@2 --save
 
 ## 启用 Nexmoe
 
-在 `站点配置文件` 中，修改 `theme` 的值为 `nexmoe`
+在 `config.yml` 中，修改 `theme` 的值为 `nexmoe`
 
 ## 运行 Nexmoe
 
