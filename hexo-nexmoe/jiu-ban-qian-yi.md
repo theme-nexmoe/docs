@@ -2,7 +2,7 @@
 
 1.确保你为 Hexo 5.0 以上版本
 
-2.将旧版本中主题目录下的 config.yml 文件重命名为 \_config.nexmoe.yml 
+2.将旧版本中主题目录下的 config.yml 文件重命名为 \_config.nexmoe.yml 并移动到 Hexo 根目录下
 
 3.删除主题文件夹
 
