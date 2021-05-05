@@ -20,7 +20,11 @@ Hexo 官方文档解决大部分问题！
 
 本文档内容较少，只解决常见问题
 
-### 3、使用搜索引擎
+### 3、搜索 GitHub 中的 issue
+
+很多问题在issue中也能找到答案 [前往搜索 issue](https://github.com/theme-nexmoe/hexo-theme-nexmoe/issues)
+
+### 4、使用搜索引擎
 
 以上方法解决不了的问题，搜索引擎一定能解决，如果搜索引擎都解决不了，那就没办法了。
 
