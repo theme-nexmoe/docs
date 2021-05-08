@@ -41,7 +41,7 @@ description: 看了这篇文章，即使你什么都不会也能上手（基于 
 4. 终端中输入 `hexo s --debug`
 5. 在 Hexo 根目录下新建  `_config.nexmoe.yml` 
 
-   然后将 `C:\blog\node_modules\hexo-theme-nexmoe\_config.yml` 复制到其中
+   然后将 `C:\blog\node_modules\hexo-theme-nexmoe\_config.yml` 中的内容复制到其中
 
 ## 启动 Hexo
 
@@ -49,5 +49,5 @@ description: 看了这篇文章，即使你什么都不会也能上手（基于 
 
 ## 部署参考
 
-[https://blog.csdn.net/weixin\_44903718/article/details/108541059](https://blog.csdn.net/weixin_44903718/article/details/108541059)
+[https://zhuanlan.zhihu.com/p/347990778](https://zhuanlan.zhihu.com/p/347990778)
 
