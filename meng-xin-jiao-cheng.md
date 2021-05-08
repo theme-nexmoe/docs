@@ -47,7 +47,3 @@ description: 看了这篇文章，即使你什么都不会也能上手（基于 
 
 大功告成，在终端中输入 `hexo server`使用浏览器访问 [http://localhost:4000](http://localhost:4000)
 
-```bash
-
-```
-
