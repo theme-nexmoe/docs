@@ -1,6 +1,7 @@
 # Table of contents
 
 * [欢迎](README.md)
+* [萌新教程](meng-xin-jiao-cheng.md)
 
 ## Hexo-Nexmoe
 

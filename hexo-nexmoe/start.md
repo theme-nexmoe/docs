@@ -54,6 +54,14 @@ npm install hexo-wordcount@2 --save
 
 在 `config.yml` 中，修改 `theme` 的值为 `nexmoe`
 
+## 配置 Nexmoe
+
+安装好主题后，在 Hexo 根目录下新建  `_config.nexmoe.yml` 
+
+然后对照 `node_modules/hexo-theme-nexmoe/_config.yml` 进行修改，
+
+理论上 `_config.nexmoe.yml` 会覆盖默认配置
+
 ## 运行 Nexmoe
 
 在站点根目录下运行下面的命令在本地启动一个 Hexo Server。
