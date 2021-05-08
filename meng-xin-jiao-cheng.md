@@ -37,7 +37,7 @@ description: 看了这篇文章，即使你什么都不会也能上手（基于 
 
 1. 终端中输入 `npm i hexo-theme-nexmoe`
 2. 终端中输入 `npm i --save hexo-wordcount`
-3. 在 `config.yml` 中，修改 `theme` 的值为 `nexmoe`
+3. 在 `C:\blog\config.yml` 中，修改 `theme` 的值为 `nexmoe`
 4. 终端中输入 `hexo s --debug`
 5. 在 Hexo 根目录下新建  `_config.nexmoe.yml` 
 
