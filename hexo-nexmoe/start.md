@@ -38,16 +38,14 @@ npm i hexo-theme-nexmoe
 
 ## 安装 WordCount（必须）
 
-其他主题不同，安装 Nexmoe 需要额外的步骤；主题默认已经集成了文章【字数统计】、【阅读时长】统计功能，且暂时无法关闭。如果没有安装 hexo-wordcount 插件，先安装该插件：
+其他主题不同，安装 Nexmoe 需要额外的步骤；
+
+主题默认已经集成了文章【字数统计】、【阅读时长】统计功能，且暂时无法关闭。
+
+如果没有安装 hexo-wordcount 插件，先安装该插件：
 
 ```bash
 npm i --save hexo-wordcount
-```
-
-**Node 版本 7.6.0 之前,请安装 2.x 版本 \(Node.js v7.6.0 and previous\) ，安装命令如下：**
-
-```bash
-npm install hexo-wordcount@2 --save
 ```
 
 ## 启用 Nexmoe
@@ -56,11 +54,7 @@ npm install hexo-wordcount@2 --save
 
 ## 配置 Nexmoe
 
-安装好主题后，在 Hexo 根目录下新建  `_config.nexmoe.yml` 
-
-然后对照 `node_modules/hexo-theme-nexmoe/_config.yml` 进行修改，
-
-理论上 `_config.nexmoe.yml` 会覆盖默认配置
+安装好主题后，在 Hexo 根目录下修改 `_config.nexmoe.yml` 
 
 ## 运行 Nexmoe
 
@@ -87,4 +81,6 @@ INFO  Hexo is running at http://localhost:4000/. Press Ctrl+C to stop.
 ```
 npm i hexo-theme-nexmoe
 ```
+
+更新后在 Hexo 根目录下对照`_config.new.yml` 修改 `_config.nexmoe.yml` 
 
