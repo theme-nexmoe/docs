@@ -10,11 +10,11 @@ npm i --save hexo-wordcount
 
 ## 代码高亮显示问题
 
-主题内置代码高亮且自动开启，为了避免冲突，请在 `站点配置文件` 中禁用 highlight
+自2.9.0版本后，需要在 \_config.yml 文件中进行如下配置使用高亮
 
 ```yaml
 highlight:
-  enable: false
+  enable: true
 ```
 
 ## 首页取文章概述
