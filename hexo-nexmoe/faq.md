@@ -8,7 +8,7 @@
 npm i --save hexo-wordcount
 ```
 
-## 代码高亮显示问题
+## 代码高亮
 
 自2.9.0版本后，需要在 \_config.yml 文件中进行如下配置使用高亮
 
