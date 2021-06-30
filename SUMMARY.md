@@ -11,6 +11,7 @@
   * [评论系统](hexo-nexmoe/zhu-ti-pei-zhi/comment.md)
   * [分析系统](hexo-nexmoe/zhu-ti-pei-zhi/statistics.md)
   * [图标](hexo-nexmoe/zhu-ti-pei-zhi/icon.md)
+  * [搜索](hexo-nexmoe/zhu-ti-pei-zhi/search.md)
 * [文章页面](hexo-nexmoe/use.md)
 
 ---
