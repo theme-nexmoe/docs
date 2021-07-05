@@ -17,10 +17,6 @@ description: 一个比较特别的 Hexo 主题
 * 图片瀑布流
 * 社交按钮
 
-### 🎓 教程
-
-请查看 [https://docs.nexmoe.com/](https://docs.nexmoe.com/)
-
 ### 💻 演示
 
 欢迎将你的网站提交到这里来
@@ -40,21 +36,11 @@ description: 一个比较特别的 Hexo 主题
 * Solo-InkDP：[https://github.com/InkDP/solo-nexmoe](https://github.com/InkDP/solo-nexmoe)
 * Hexo-Dark： [https://github.com/confuseder/hexo-theme-dark](https://github.com/confuseder/hexo-theme-dark)
 
-### 🌏 国际化
+### 💴 赞助我促进更新
 
-支持多语言，默认语言为简体中文。 目前中文翻译较全，其他语言翻译不完全，有余力的大佬可以来贡献一下 语言文件在 languages 里，参考 `zh-CN.yml` 进行翻译即可
+![](.gitbook/assets/68747470733a2f2f692e6461776e6c61622e6d652f65653030393365616433636138313435353232626137363663336639613065652e706e67.png)
 
-> 非常欢迎你帮助我们将 Nexmoe 翻译至其他语言！
-
-### 📄 许可证
-
-根据 Apache License 2.0 许可证开源。
-
-### 请我喝奶茶
-
-![&#x652F;&#x4ED8;&#x4E8C;&#x7EF4;&#x7801;](https://i.speed.moe/images/d2c45ec8fb10867e4c2d53ded62fbfb6.png)
-
-### 🍻 后续更新
+## 🍻 后续更新
 
 就读高中， star 以及 issue 是我更新的动力! 欢迎加群 [482634342 轻惋漫社](https://jq.qq.com/?_wv=1027&k=5CfKHun) 划水
 
