@@ -8,6 +8,12 @@
 
 [Telegram 群组 轻惋漫社](https://t.me/chainwon)
 
+## 国际化
+
+ 支持多语言，默认语言为简体中文。 目前中文翻译较全，其他语言翻译不完全，有余力的大佬可以来贡献一下 语言文件在 languages 里，参考 `zh-CN.yml` 进行翻译即可
+
+> 非常欢迎你帮助我们将 Nexmoe 翻译至其他语言！
+
 ## Issue
 
 [报告错误](https://github.com/theme-nexmoe/hexo-theme-nexmoe/issues/new)
