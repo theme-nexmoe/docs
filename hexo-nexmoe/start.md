@@ -38,13 +38,13 @@ npm i hexo-theme-nexmoe
 
 ## 安装 WordCount（必须）
 
-其他主题不同，安装 Nexmoe 需要额外的步骤；
+其他主题不同，安装 Nexmoe 需要额外的步骤
 
-主题默认已经集成了文章【字数统计】、【阅读时长】统计功能，且暂时无法关闭。
+主题默认已经集成了文章【字数统计】、【阅读时长】统计功能，需要WordCount的支持
 
-如果没有安装 hexo-wordcount 插件，先安装该插件：
+运行如下命令安装
 
-```bash
+```
 npm i --save hexo-wordcount
 ```
 
@@ -58,7 +58,7 @@ npm i --save hexo-wordcount
 
 ## 运行 Nexmoe
 
-在站点根目录下运行下面的命令在本地启动一个 Hexo Server。
+在站点根目录下运行下面的命令在本地启动一个 Hexo Server
 
 ```bash
 hexo s --debug
@@ -66,7 +66,7 @@ hexo s --debug
 
 > 在服务启动的过程，注意观察命令行输出是否有任何异常信息，如果你碰到问题，这些信息将帮助他人更好的定位错误。
 
-当命令行输出下述内容时说明 Hexo 已经监听在本机的 4000 端口，使用浏览器访问 [http://localhost:4000](http://localhost:4000) ，检查站点是否正确运行。
+当命令行输出下述内容时说明 Hexo 已经监听在本机的 4000 端口，使用浏览器访问 [http://localhost:4000](http://localhost:4000) ，检查站点是否正确运行
 
 ```bash
 INFO  Hexo is running at http://localhost:4000/. Press Ctrl+C to stop.

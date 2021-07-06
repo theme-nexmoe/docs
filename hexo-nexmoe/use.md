@@ -49,7 +49,7 @@ permalink: PY.html
 例如:
 
 ```text
-- [![轻惋导航](https://www.chainwon.com/static/logo.png)](https://www.chainwon.com/ "轻惋导航")
+- [![折影轻梦](https://avatar.mixcm.com/github/nexmoe)](https://nexmoe.com/ "折影轻梦")
 ```
 
 演示：[https://nexmoe.com/PY.html](https://nexmoe.com/PY.html)
