@@ -68,7 +68,7 @@ coverHeight: 750
 ---
 ```
 
-## 瀑布路图片
+## 瀑布流图片
 
 ```yaml
 {% gallery %}
